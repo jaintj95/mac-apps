@@ -5,3 +5,4 @@ A list of apps for macOS
 * [AlDente](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter/releases/)
 * [BetterTouchTool](https://folivora.ai/)
 * [Fanny](https://www.fannywidget.com/)
+* [Cursor AI Code Editor](https://cursor.sh/)
