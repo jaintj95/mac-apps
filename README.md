@@ -9,7 +9,7 @@ A list of apps for macOS
 * [Stats](https://github.com/exelban/stats?tab=readme-ov-file)
 
 
-Lists
+Lists  
 * 
 https://old.reddit.com/r/macapps/comments/1bghh3b/my_curated_list_of_great_free_apps_for_mac/
 * https://old.reddit.com/r/macapps/comments/1bwoinz/what_is_the_one_mac_app_that_changed_your/
