@@ -1,5 +1,6 @@
 # mac-apps
 A list of apps for macOS
+* [Crush](https://github.com/charmbracelet/crush)
 * [Rectange](https://rectangleapp.com/)
 * [Better Display](https://github.com/waydabber/BetterDisplay)
 * [AlDente](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter/releases/)
