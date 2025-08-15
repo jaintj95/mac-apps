@@ -9,6 +9,7 @@ A list of apps for macOS
 * [Stats](https://github.com/exelban/stats?tab=readme-ov-file)
 * [Mac Mouse Fix v2](https://github.com/noah-nuebling/mac-mouse-fix/releases/tag/2.2.0)
 * [Super Whisper](https://superwhisper.com/)
+* [HyprNote](https://github.com/fastrepl/hyprnote)
 
 
 Mac <-> Android
