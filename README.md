@@ -15,13 +15,13 @@ A list of apps for macOS
 Mac Retro Setup <-> [Dave2d](https://www.youtube.com/watch?v=0vFErGxD2QY)
 * [Ghostty](https://ghostty.org/)
 * [Resource Monitor](https://github.com/aristocratos/btop)
-* 
+* [Spotify](https://github.com/aome510/spotify-player)
 
 
 Mac <-> Android
 * [Google Messages web app](https://messages.google.com/web/conversations)
 * [LocalSend](https://github.com/localsend/localsend)
-* [Spotify](https://github.com/aome510/spotify-player)
+
 
 
 Lists  
