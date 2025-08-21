@@ -15,6 +15,7 @@ A list of apps for macOS
 Mac Retro Setup <-> [Dave2d](https://www.youtube.com/watch?v=0vFErGxD2QY)
 * [Ghostty](https://ghostty.org/)
 * [Resource Monitor](https://github.com/aristocratos/btop)
+* [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 * [Spotify](https://github.com/aome510/spotify-player)
 
 
