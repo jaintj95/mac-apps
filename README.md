@@ -12,7 +12,7 @@ A list of apps for macOS
 * [HyprNote](https://github.com/fastrepl/hyprnote)
 * [BoringNotch](https://github.com/TheBoredTeam/boring.notch/)
 * [Shottr](https://shottr.cc/)
-* [Pinokio] (https://pinokio.co/) 
+* [Pinokio](https://pinokio.co/) 
 * [Alt-tab](https://github.com/lwouis/alt-tab-macos) - https://www.reddit.com/r/MacOS/comments/1jw0hil/disabling_cmdtab_andor_native_app_switcher_on/
 
 I started fooling around with the ALTTAB app and found that if you change its Shortcut 1 Trigger shortcut Hold key to the CMD key, it will override the macOS CMD-Tab. You can do the same for the Shortcut 2 Trigger Hold key for toggling the different app open windows, but you need to disable the same functionality in the System Settings / Keyboard Shortcuts... / Keyboard / Move focus to next window.
