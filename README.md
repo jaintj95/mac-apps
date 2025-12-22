@@ -12,6 +12,7 @@ A list of apps for macOS
 * [HyprNote](https://github.com/fastrepl/hyprnote)
 * [BoringNotch](https://github.com/TheBoredTeam/boring.notch/)
 * [Shottr](https://shottr.cc/)
+* [Codex & Claude usage menu bar](https://codexbar.app/)
 * [Pinokio](https://pinokio.co/) 
 * [Alt-tab](https://github.com/lwouis/alt-tab-macos) - https://www.reddit.com/r/MacOS/comments/1jw0hil/disabling_cmdtab_andor_native_app_switcher_on/
 
