@@ -21,7 +21,8 @@ I started fooling around with the ALTTAB app and found that if you change its Sh
 
 Mac Retro Setup <-> [Dave2d](https://www.youtube.com/watch?v=0vFErGxD2QY)
 * [Ghostty](https://ghostty.org/)
-* [Resource Monitor](https://github.com/aristocratos/btop)
+* [Resource Monitor - btop](https://github.com/aristocratos/btop)
+* [mactop](https://github.com/metaspartan/mactop)
 * [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 * [Spotify](https://github.com/aome510/spotify-player)
 
