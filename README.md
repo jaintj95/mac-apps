@@ -11,6 +11,7 @@ A list of apps for macOS
 * [Super Whisper](https://superwhisper.com/)
 * [HyprNote](https://github.com/fastrepl/hyprnote)
 * [BoringNotch](https://github.com/TheBoredTeam/boring.notch/)
+* [Scratch](https://github.com/erictli/scratch)
 * [Shottr](https://shottr.cc/)
 * [Codex & Claude usage menu bar](https://codexbar.app/)
 * [Pinokio](https://pinokio.co/) 
