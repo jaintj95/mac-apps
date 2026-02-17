@@ -4,6 +4,7 @@ A list of apps for macOS
 * [Rectange](https://rectangleapp.com/)
 * [Better Display](https://github.com/waydabber/BetterDisplay)
 * [AlDente](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter/releases/)
+* [Finetune](https://github.com/ronitsingh10/FineTune)
 * [BetterTouchTool](https://folivora.ai/)
 * [Fanny](https://www.fannywidget.com/)
 * [Stats](https://github.com/exelban/stats?tab=readme-ov-file)
