@@ -8,6 +8,7 @@ A list of apps for macOS
 * [Mac Mouse Fix v2](https://github.com/noah-nuebling/mac-mouse-fix/releases/tag/2.2.0)
 * [Handy Computer - Speech app](https://handy.computer/docs)
 * [HyprNote](https://github.com/fastrepl/hyprnote)
+* [Thaw](https://github.com/stonerl/Thaw)
 * [BoringNotch](https://github.com/TheBoredTeam/boring.notch/)
 * [Scratch](https://github.com/erictli/scratch)
 * [Shottr](https://shottr.cc/)
