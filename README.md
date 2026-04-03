@@ -1,21 +1,20 @@
 # mac-apps
 A list of apps for macOS
-* [Crush](https://github.com/charmbracelet/crush)
-* [Rectange](https://rectangleapp.com/)
 * [Better Display](https://github.com/waydabber/BetterDisplay)
 * [AlDente](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter/releases/)
-* [Finetune](https://github.com/ronitsingh10/FineTune) - avoid, high CPU usage
 * [BetterTouchTool](https://folivora.ai/)
 * [Fanny](https://www.fannywidget.com/)
 * [Stats](https://github.com/exelban/stats?tab=readme-ov-file)
 * [Mac Mouse Fix v2](https://github.com/noah-nuebling/mac-mouse-fix/releases/tag/2.2.0)
-* [Super Whisper](https://superwhisper.com/)
+* [Handy Computer - Speech app](https://handy.computer/docs)
 * [HyprNote](https://github.com/fastrepl/hyprnote)
 * [BoringNotch](https://github.com/TheBoredTeam/boring.notch/)
 * [Scratch](https://github.com/erictli/scratch)
 * [Shottr](https://shottr.cc/)
+* [Rectange](https://rectangleapp.com/)
 * [Codex & Claude usage menu bar](https://codexbar.app/)
-* [Pinokio](https://pinokio.co/) 
+* [Pinokio](https://pinokio.co/)
+* [Finetune](https://github.com/ronitsingh10/FineTune) - avoid, high CPU usage
 * [Alt-tab](https://github.com/lwouis/alt-tab-macos) - https://www.reddit.com/r/MacOS/comments/1jw0hil/disabling_cmdtab_andor_native_app_switcher_on/
 * [Dock-door](https://github.com/ejbills/DockDoor) - Alt-tab alternative. Slow and clunky.
 
