@@ -12,6 +12,7 @@ A list of apps for macOS
 * [BoringNotch](https://github.com/TheBoredTeam/boring.notch/)
 * [Scratch](https://github.com/erictli/scratch)
 * [Shottr](https://shottr.cc/)
+* [Helium Browser](https://helium.computer/)
 * [Rectange](https://rectangleapp.com/)
 * [Codex & Claude usage menu bar](https://codexbar.app/)
 * [Pinokio](https://pinokio.co/)
