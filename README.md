@@ -4,6 +4,7 @@ A list of apps for macOS
 * [AlDente](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter/releases/)
 * [BetterTouchTool](https://folivora.ai/)
 * [Fanny](https://www.fannywidget.com/)
+* [Caffeine](https://github.com/domzilla/Caffeine)
 * [Stats](https://github.com/exelban/stats?tab=readme-ov-file)
 * [Mac Mouse Fix v2](https://github.com/noah-nuebling/mac-mouse-fix/releases/tag/2.2.0)
 * [Handy Computer - Speech app](https://handy.computer/docs)
