@@ -7,6 +7,8 @@ A list of apps for macOS
 * [Caffeine](https://github.com/domzilla/Caffeine)
 * [Stats](https://github.com/exelban/stats?tab=readme-ov-file)
 * [Mac Mouse Fix v2](https://github.com/noah-nuebling/mac-mouse-fix/releases/tag/2.2.0)
+* [Linear Mouse](https://github.com/linearmouse/linearmouse)
+* [Middle Click](https://github.com/artginzburg/MiddleClick)
 * [Handy Computer - Speech app](https://handy.computer/docs)
 * [HyprNote](https://github.com/fastrepl/hyprnote)
 * [Thaw](https://github.com/stonerl/Thaw)
