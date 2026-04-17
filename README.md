@@ -21,6 +21,7 @@ A list of apps for macOS
 * [Alt-tab](https://github.com/lwouis/alt-tab-macos) - https://www.reddit.com/r/MacOS/comments/1jw0hil/disabling_cmdtab_andor_native_app_switcher_on/
 * [Dock-door](https://github.com/ejbills/DockDoor) - Alt-tab alternative. Slow and clunky.
 * [Zed](https://zed.dev/)
+* [Flux Markdown](https://github.com/xykong/flux-markdown)
 * [LM Studio](https://lmstudio.ai/)
 * [Ollama](https://ollama.com/)
 
