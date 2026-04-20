@@ -32,6 +32,7 @@ A reference list of apps for setting up a new Mac.
 - [Thaw](https://github.com/stonerl/Thaw) 
 - [Shottr](https://shottr.cc/) — screenshots
 - [FolderPeek](https://sindresorhus.com/folder-peek)
+- [MeetingBar](https://meetingbar.app/)
 
 ## Notes & Writing
 
