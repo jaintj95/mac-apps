@@ -16,6 +16,7 @@ A reference list of apps for setting up a new Mac.
 - [Mac Mouse Fix v2](https://github.com/noah-nuebling/mac-mouse-fix/releases/tag/2.2.0)
 - [Linear Mouse](https://github.com/linearmouse/linearmouse)
 - [Middle Click](https://github.com/artginzburg/MiddleClick)
+- [HyperKey](https://hyperkey.app/)
 
 ## Windows & App Switching
 
