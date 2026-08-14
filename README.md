@@ -9,6 +9,7 @@ A reference list of apps for setting up a new Mac.
 - [Stats](https://github.com/exelban/stats?tab=readme-ov-file) — system monitor in the menu bar
 - [Fanny](https://www.fannywidget.com/) — fan speed widget
 - [BoringNotch](https://github.com/TheBoredTeam/boring.notch/) — notch customization
+- [Keka archive utility](https://www.keka.io/en/)
 
 ## Input: Mouse, Keyboard, Gestures
 
