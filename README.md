@@ -36,6 +36,7 @@ A reference list of apps for setting up a new Mac.
 - [FolderPeek](https://sindresorhus.com/folder-peek)
 - [MeetingBar](https://meetingbar.app/)
 - [CoTypist](https://cotypist.app/)
+- [Video Recorded and Editor](https://github.com/webadderallorg/Recordly)
 
 ## Notes & Writing
 
