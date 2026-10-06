@@ -78,6 +78,7 @@ A reference list of apps for setting up a new Mac.
 
 ## References
 
+- [Snazzly Labs video 1](https://www.youtube.com/watch?v=Aea2DUX4fsQ)
 - [Dave2d — Mac Retro Setup](https://www.youtube.com/watch?v=0vFErGxD2QY)
 - [r/macapps — curated list of great free apps](https://old.reddit.com/r/macapps/comments/1bghh3b/my_curated_list_of_great_free_apps_for_mac/)
 - [r/macapps — the one Mac app that changed your workflow](https://old.reddit.com/r/macapps/comments/1bwoinz/what_is_the_one_mac_app_that_changed_your/)
