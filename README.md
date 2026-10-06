@@ -38,6 +38,7 @@ A reference list of apps for setting up a new Mac.
 - [MeetingBar](https://meetingbar.app/)
 - [CoTypist](https://cotypist.app/)
 - [Video Recorded and Editor](https://github.com/webadderallorg/Recordly)
+- [Textream](https://github.com/f/textream) - Text Prompter
 
 ## Notes & Writing
 
