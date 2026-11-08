@@ -39,6 +39,7 @@ A reference list of apps for setting up a new Mac.
 - [CoTypist](https://cotypist.app/)
 - [Video Recorded and Editor](https://github.com/webadderallorg/Recordly)
 - [Textream](https://github.com/f/textream) - Text Prompter
+- [MacUSB](https://github.com/Kruszoneq/macUSB) - bootable USB creator
 
 ## Notes & Writing
 
